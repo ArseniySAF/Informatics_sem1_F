@@ -21,7 +21,7 @@
 3. Проверяем соединение с интернетом, используя команду `ping`
 
 <div align="left">
-<img src="[images/Pasted image 20250421181047.png"](https://github.com/user-attachments/assets/c010cadc-d269-43c4-aa35-5588a6828a96)/>
+<img src="https://github.com/user-attachments/assets/c010cadc-d269-43c4-aa35-5588a6828a96/>
 </div>
 
 4. Блокируем доступ из машины **Б** в машину **В**. Воспользуемся утилитой `iptables`, в виртуальной машине **В** пропишем:
@@ -37,19 +37,22 @@ sudo iptables -A INPUT -s 192.162.1.20 -j DROP
 	- Из машины **А** в машину **Б**:
 
 	<div align="left">
-	<img src="images/Pasted image 20250421191920.png"/>
+	<img src="https://github.com/user-attachments/assets/ea39fe9e-c3cf-44f1-9a8b-16b7adc88839"/>
 	</div><br>
 
 	- Из машины **А** в машину **В**:
 
 	<div align="left">
-	<img src="images/Pasted image 20250421192153.png"/>
+	<img src="https://github.com/user-attachments/assets/88616a5e-60a1-43c3-a288-9df88824112a"/>
 	</div><br>
 
 	- Из машины **Б** в машину **В**:
    
 	<div align="left">
-	<img src="images/Pasted image 20250421192349.png"/>
+	<img src="https://github.com/user-attachments/assets/6e98505d-4619-4fac-b75b-e18e35102d4f"/>
 	</div><br>
 
-![lab3 1](https://github.com/user-attachments/assets/c010cadc-d269-43c4-aa35-5588a6828a96)
+
+
+
+

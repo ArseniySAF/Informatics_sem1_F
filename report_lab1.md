@@ -18,7 +18,7 @@ bash script.bash
 Вывод программы:
 
 <div align="left">
-<img src="![Pasted image 20250409140239](https://github.com/user-attachments/assets/8de03d85-e576-47f0-8df4-abfd72003cac)
+<img width="449" alt="image" src="https://github.com/user-attachments/assets/474a1573-967c-4dc5-b9c5-d650bc79600c">
 "/>
 </div>
 

@@ -19,7 +19,6 @@ bash script.bash
 
 <div align="left">
 <img width="449" alt="image" src="https://github.com/user-attachments/assets/474a1573-967c-4dc5-b9c5-d650bc79600c">
-"/>
 </div>
 
 Следующей задачей было написание скрипта, приветствующего пользователя. Изучив материалы, я понял, что для этого достаточно использовать аргументы командной строки. Решение оказалось простым:
@@ -34,7 +33,8 @@ echo "Welcome, $*"
 Пример работы:
 
 <div align="left">
-<img src="images/Pasted image 20250409140849.png"/>
+<img width="449" alt="image" src="https://github.com/user-attachments/assets/3aa5cb08-c11d-4566-b671-9bb4c25bb5e9">
 </div>
+
 
 Работа в Linux оказалась интересным опытом. Мне понравилось <3

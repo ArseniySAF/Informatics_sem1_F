@@ -21,7 +21,7 @@
 3. Проверяем соединение с интернетом, используя команду `ping`
 
 <div align="left">
-<img src="https://github.com/user-attachments/assets/c010cadc-d269-43c4-aa35-5588a6828a96/>
+<img src="https://github.com/user-attachments/assets/c010cadc-d269-43c4-aa35-5588a6828a96"/>
 </div>
 
 4. Блокируем доступ из машины **Б** в машину **В**. Воспользуемся утилитой `iptables`, в виртуальной машине **В** пропишем:

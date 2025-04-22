@@ -152,7 +152,7 @@ git commit -m "upd: version for release v1.0.0"
 8. Завершаем релиз и объединяем его с ветками *develop* и *master*
 
 <div align="left">
-<img src="images/Pasted image 20250413014424.png"/>
+<img src="https://github.com/user-attachments/assets/fefcef99-433d-4830-a470-3a8b7a7e5194"/>
 </div>
 
 9. Создадим *hotfix*.
@@ -162,19 +162,19 @@ git flow hotfix start hotfix-1.0.1
 ```
 
 <div align="left">
-<img src="images/Pasted image 20250413014537.png"/>
+<img src="https://github.com/user-attachments/assets/5c8af2ea-c1a9-4b56-8097-89c960a98342"/>
 </div>
 
 10. (Создадим и) исправим критическую ошибку и закоммитим:
 
 <div align="left">
-<img src="images/Pasted image 20250413014908.png"/>
+<img src="https://github.com/user-attachments/assets/499bb017-3d60-4ba3-918f-17d9297293be"/>
 </div>
 
 11. Завершаем *hotfix* и объединяем с ветками *develop* и *master*:
 
 <div align="left">
-<img src="images/Pasted image 20250413015258.png"/>
+<img src="https://github.com/user-attachments/assets/bcaa83b4-319f-488f-b26a-524fc2d50af4"/>
 </div>
 
 12. Завершаем работу и отправляем изменения на удаленный репозиторий:
